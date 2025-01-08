@@ -1,1 +1,2 @@
-print("3er archivo como tres libertadores")
+print("el error esta aqui abajo")
+console.log("lolala")
